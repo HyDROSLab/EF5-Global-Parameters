@@ -8,3 +8,7 @@ Clark, R.A., Flamig, Z.L., Vergara, H., Hong, Y., Gourley, J.J., Mandl, D.J., Fr
 Update 04/15/2021:
 
 Parameters at 5-km pixel resolution as presented in Clark et al. (2017).
+
+## Data format and other details
+
+Files are GeoTIFFs using EPSG:4326. Values are Float32, which is required by EF5. No Data vaues has been set to -9999.
