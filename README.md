@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4694759.svg)](https://doi.org/10.5281/zenodo.4694759)
+
 # EF5-Global-Parameters
 Parameters for CREST and kinematic wave models in EF5 for the globe.
 
