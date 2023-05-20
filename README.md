@@ -11,6 +11,10 @@ Update 04/15/2021:
 
 Parameters at 5-km pixel resolution as presented in Clark et al. (2017).
 
+Update 05/20/2023:
+
+EF5 control file included.
+
 ## Data format and other details
 
 Files are GeoTIFFs using EPSG:4326. Values are Float32, which is required by EF5. No Data vaues has been set to -9999.
