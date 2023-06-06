@@ -11,9 +11,9 @@ Update 04/15/2021:
 
 Parameters at 5-km pixel resolution as presented in Clark et al. (2017).
 
-Update 05/20/2023:
+Update 06/06/2023:
 
-EF5 control file included.
+EF5 control file, FAO PET grids, and basic DEM and derivatives included to enable out-of-box simulation capabilities. No rainfall data are included.
 
 ## Data format and other details
 
