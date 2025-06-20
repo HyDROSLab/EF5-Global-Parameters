@@ -2,6 +2,5 @@ Global Potential EvapoTranspiration (PET) grids from the Food and Agriculture Or
 
 Monthly climatological estimates of PET
 
-Native Resolution: ~10 km (0.08333330 dd)
-Grid resolution: ~1 km
+Grid Resolution: ~10 km (0.08333330 dd)
 Units: mm/day
