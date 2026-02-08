@@ -7,13 +7,21 @@ Set of parameters based on methodology and globally available geospatial dataset
 
 Clark, R.A., Flamig, Z.L., Vergara, H., Hong, Y., Gourley, J.J., Mandl, D.J., Frye, S., Handy, M. and Patterson, M., 2017. Hydrological modeling and capacity building in the Republic of Namibia. Bulletin of the American Meteorological Society, 98(8), pp.1697-1715.
 
-Update 04/15/2021:
+|Parameter|Units|Description|
+|-|-|-|
 
-Parameters at 5-km pixel resolution as presented in Clark et al. (2017).
+
+Update 02/07/2026:
+
+Added Units METADATA to GeoTIFF files. Included table above for quick reference as well.
 
 Update 06/06/2023:
 
 EF5 control file, FAO PET grids, and basic DEM and derivatives included to enable out-of-box simulation capabilities. No rainfall data are included.
+
+Update 04/15/2021:
+
+Parameters at 5-km pixel resolution as presented in Clark et al. (2017).
 
 ## Data format and other details
 
